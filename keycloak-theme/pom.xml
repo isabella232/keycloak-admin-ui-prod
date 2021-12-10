@@ -30,6 +30,21 @@
             <distribution>repo</distribution>
         </license>
     </licenses>
+    
+    <url>http://keycloak.org</url>    
+    
+    <scm>
+        <connection>scm:git:git://github.com/keycloak/keycloak-admin-ui.git</connection>
+        <developerConnection>scm:git:git@github.com:keycloak/keycloak-admin-ui.git</developerConnection>
+        <url>https://github.com/keycloak/keycloak-admin-ui/tree/master/</url>
+    </scm>    
+    
+    <developers>
+        <developer>
+            <id>keycloak</id>
+            <name>Keycloak Team</name>
+        </developer>
+    </developers>
 
     <distributionManagement>
         <repository>
